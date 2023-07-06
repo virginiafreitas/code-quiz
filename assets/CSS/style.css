@@ -1,0 +1,64 @@
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Setting the font family and background color for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+/* Setting the background color and padding for the header */
+header {
+    background-color: #333;
+    padding: 10px;
+}
+
+/* Setting the color and removing the underline for the navigation link within the header */
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Setting the maximum width, margin, padding, and center alignment for the main content section*/
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Setting the font size, bottom margin, color, and adding a subtle text shadow to the main title */
+h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: #333;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Setting the bottom margin and color for the paragraph description */
+p {
+    margin-bottom: 20px;
+    color: #666;
+}
+
+/* Setting the background color, color, font size, padding, border, border radius, and cursor for the start button */
+button {
+    background-color: #ff4081;
+    color: #fff;
+    font-size: 24px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease;
+}
+
+/* Changing the background color when the start button is hovered */
+button:hover {
+    background-color: #d50064;
+}
