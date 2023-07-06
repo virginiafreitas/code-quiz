@@ -10,6 +10,10 @@
 
 ## Credits
 
+I have received advice from the UC Berkeley Extension tutors Ashton Foston and Phillip Loy.
+I reached out to the Mozilla Developer webpage to learn how to use some of the functions. ( https://developer.mozilla.org/en-US/ )
+I used ChatGPT to suggest me some questions about Javascript coding with alternatives and answers for the quiz content.
+
 ## License
 
     MIT License
