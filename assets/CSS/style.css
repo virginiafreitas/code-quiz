@@ -45,20 +45,50 @@ p {
     color: #666;
 }
 
-/* Setting the background color, color, font size, padding, border, border radius, and cursor for the start button */
-button {
+/* Setting the background color, color, font size, padding, border, border radius, and cursor for the start, next question and see results buttons */
+#start-btn,
+#next-btn,
+#save-btn {
     background-color: #ff4081;
     color: #fff;
     font-size: 24px;
     padding: 12px 24px;
     border: none;
     border-radius: 4px;
+    margin-top: 24px;
     cursor: pointer;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     transition: background-color 0.3s ease;
 }
 
+/* Setting the background color, color, font size, padding, border, border radius, and cursor for the alternatives button */
+.option {
+    background-color: #40ff43;
+    color: #224ee1;
+    font-size: 24px;
+    padding: 12px 24px;
+    border: none;
+    margin-bottom: 6px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease;
+}
+
+
 /* Changing the background color when the start button is hovered */
 button:hover {
-    background-color: #d50064;
+    background-color: #484848;
+}
+
+.hide {
+    display: none;
+}
+
+#initial {
+    margin-left: 24px;
+}
+
+#question {
+    margin-bottom: 24px;
 }

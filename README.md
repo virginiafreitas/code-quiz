@@ -6,16 +6,44 @@
 
 ## Installation
 
+
+1. Created HTML file and CSS templates, to be adjusted as the code is written.
+2. Created the Javascript file.
+3. Create global variables: set initial score, sets initial timer count, sets array of strings with all quiz questions, sets arrays of strings with all possible answer for each question, sets array with the index number of all the correct answers, sets the index number of current question, starting at zero
+4. Create functions: startTimer, nextQuestion, checkAnswer, showQuestion, disableOptions, showNextButton, show Result,
+5. Created event listener for the start button
+
+
 ## Usage
+
+
+1. Open the following URL in the browser: https://virginiafreitas.github.io/code-quiz/
+2. Click on the "Start Quiz" button.
+3. The timer will start to run and user will have 120 seconds to answer all the questions.
+4. User selects the alternatives that are believed to be corrected, for all the 6 questions.
+5. User press the "Next Question" button.
+6. An alert will pop up informing the user if that answer is correct or wront.
+7. After 6 questions answered, the user types the initials.
+8. The score will be displayed.
+
+![alt text](assets/images/screenshot1.png) 
+
+![alt text](assets/images/screenshot2.png) 
+
+![alt text](assets/images/screenshot3.png) 
+
+![alt text](assets/images/screenshot4.png) 
+
+![alt text](assets/images/screenshot5.png) 
+
+
 
 ## Credits
 
-I have received advice from the UC Berkeley Extension tutors Ashton Foston and Phillip Loy.
+I have received advice from the UC Berkeley Extension tutor Phillip Loy.
 I reached out to the Mozilla Developer webpage to learn how to use some of the functions. ( https://developer.mozilla.org/en-US/ )
 I used ChatGPT to suggest me some questions about Javascript coding with alternatives and answers for the quiz content.
 
 ## License
 
     MIT License
-
-
