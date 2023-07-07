@@ -26,16 +26,12 @@
 7. After 6 questions answered, the user types the initials.
 8. The score will be displayed.
 
-![alt text](assets/images/screenshot1.png) 
-
-![alt text](assets/images/screenshot2.png) 
-
-![alt text](assets/images/screenshot3.png) 
-
-![alt text](assets/images/screenshot4.png) 
-
-![alt text](assets/images/screenshot5.png) 
-
+![screenshot1](https://github.com/virginiafreitas/code-quiz/blob/main/assets/images/Screenshot1.png)
+![screenshot2](https://github.com/virginiafreitas/code-quiz/blob/main/assets/images/Screenshot2.png)
+![screenshot3](https://github.com/virginiafreitas/code-quiz/blob/main/assets/images/Screenshot3.png)
+![screenshot4](https://github.com/virginiafreitas/code-quiz/blob/main/assets/images/Screenshot4.png)
+![screenshot5](https://github.com/virginiafreitas/code-quiz/blob/main/assets/images/Screenshot5.png)
+![screenshot6](https://github.com/virginiafreitas/code-quiz/blob/main/assets/images/Screenshot6.png)
 
 
 ## Credits
